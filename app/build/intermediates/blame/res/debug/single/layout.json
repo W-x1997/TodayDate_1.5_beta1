@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/app_about.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_about.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/app_schedule_show.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_schedule_show.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/app_remind.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_remind.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/main_tab_layout1.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/main_tab_layout1.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/list_1.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/list_1.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/weibo_login_view.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/weibo_login_view.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/widget_layout_4x1.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/widget_layout_4x1.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/activity_list_item.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/activity_list_item.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/app_remind_edit.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_remind_edit.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/app_login.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_login.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/copy_of_app_schedule_show.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/copy_of_app_schedule_show.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/asf.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/asf.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/weibo_send_view.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/weibo_send_view.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/app_list.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_list.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/app_remind_insert.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_remind_insert.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/weibo_sliding_view.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/weibo_sliding_view.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/widget_layout.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/widget_layout.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/app_schedule_insert.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_schedule_insert.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/cell.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/cell.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/app_schedule.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_schedule.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/tab_item_view.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/tab_item_view.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/widget_layout_small.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/widget_layout_small.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/app_schedule_show_page.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_schedule_show_page.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/weibo_main_view.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/weibo_main_view.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/layout/test.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/test.xml"
+    }
+]

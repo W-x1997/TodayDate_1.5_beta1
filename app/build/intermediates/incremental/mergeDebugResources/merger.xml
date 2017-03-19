@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res"/><source path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/generated/res/rs/debug"/><source path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res"><file name="fade" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/fade.xml" qualifiers="" type="anim"/><file name="layout_grid_fade" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/layout_grid_fade.xml" qualifiers="" type="anim"/><file name="my_alpha_action" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/my_alpha_action.xml" qualifiers="" type="anim"/><file name="scale_rotate" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/scale_rotate.xml" qualifiers="" type="anim"/><file name="slide_down_out" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/slide_down_out.xml" qualifiers="" type="anim"/><file name="slide_up_in" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/slide_up_in.xml" qualifiers="" type="anim"/><file name="translucent_enter" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/translucent_enter.xml" qualifiers="" type="anim"/><file name="translucent_exit" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/translucent_exit.xml" qualifiers="" type="anim"/><file name="txtview_trans_animation" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/txtview_trans_animation.xml" qualifiers="" type="anim"/><file name="zoom_enter" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/zoom_enter.xml" qualifiers="" type="anim"/><file name="zoom_exit" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/zoom_exit.xml" qualifiers="" type="anim"/><file name="zoomin" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/zoomin.xml" qualifiers="" type="anim"/><file name="zoomout" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/zoomout.xml" qualifiers="" type="anim"/><file name="selector_btn" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable/selector_btn.xml" qualifiers="" type="drawable"/><file name="selector_btn_2" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable/selector_btn_2.xml" qualifiers="" type="drawable"/><file name="selector_btn_back" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable/selector_btn_back.xml" qualifiers="" type="drawable"/><file name="selector_btn_delect" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable/selector_btn_delect.xml" qualifiers="" type="drawable"/><file name="selector_btn_icon" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable/selector_btn_icon.xml" qualifiers="" type="drawable"/><file name="selector_btn_sumit" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable/selector_btn_sumit.xml" qualifiers="" type="drawable"/><file name="selector_tab_background_0" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable/selector_tab_background_0.xml" qualifiers="" type="drawable"/><file name="selector_tab_background_1" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable/selector_tab_background_1.xml" qualifiers="" type="drawable"/><file name="a" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/a.png" qualifiers="hdpi-v4" type="drawable"/><file name="a9" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/a9.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="a_small" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/a_small.png" qualifiers="hdpi-v4" type="drawable"/><file name="about" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/about.png" qualifiers="hdpi-v4" type="drawable"/><file name="about_background" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/about_background.png" qualifiers="hdpi-v4" type="drawable"/><file name="back_f" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/back_f.png" qualifiers="hdpi-v4" type="drawable"/><file name="back_p" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/back_p.png" qualifiers="hdpi-v4" type="drawable"/><file name="bgblack" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/bgblack.png" qualifiers="hdpi-v4" type="drawable"/><file name="bgblacksmall" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/bgblacksmall.png" qualifiers="hdpi-v4" type="drawable"/><file name="delect_f" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/delect_f.png" qualifiers="hdpi-v4" type="drawable"/><file name="delect_p" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/delect_p.png" qualifiers="hdpi-v4" type="drawable"/><file name="edittext_background_1" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/edittext_background_1.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="edittext_background_2" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/edittext_background_2.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="edittext_bottom" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/edittext_bottom.png" qualifiers="hdpi-v4" type="drawable"/><file name="fri_icon" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/fri_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_p" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/icon_p.png" qualifiers="hdpi-v4" type="drawable"/><file name="inserticon_3_f" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/inserticon_3_f.png" qualifiers="hdpi-v4" type="drawable"/><file name="inserticon_3_p" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/inserticon_3_p.png" qualifiers="hdpi-v4" type="drawable"/><file name="inserticon_4_f" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/inserticon_4_f.png" qualifiers="hdpi-v4" type="drawable"/><file name="inserticon_4_p" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/inserticon_4_p.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_image_1" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/list_image_1.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_image_2" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/list_image_2.png" qualifiers="hdpi-v4" type="drawable"/><file name="login" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/login.png" qualifiers="hdpi-v4" type="drawable"/><file name="meitu" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/meitu.png" qualifiers="hdpi-v4" type="drawable"/><file name="mon_icon" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/mon_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="new_widget" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/new_widget.png" qualifiers="hdpi-v4" type="drawable"/><file name="number_0" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/number_0.png" qualifiers="hdpi-v4" type="drawable"/><file name="number_1" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/number_1.png" qualifiers="hdpi-v4" type="drawable"/><file name="number_2" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/number_2.png" qualifiers="hdpi-v4" type="drawable"/><file name="number_3" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/number_3.png" qualifiers="hdpi-v4" type="drawable"/><file name="number_4" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/number_4.png" qualifiers="hdpi-v4" type="drawable"/><file name="number_5" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/number_5.png" qualifiers="hdpi-v4" type="drawable"/><file name="number_6" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/number_6.png" qualifiers="hdpi-v4" type="drawable"/><file name="number_7" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/number_7.png" qualifiers="hdpi-v4" type="drawable"/><file name="number_8" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/number_8.png" qualifiers="hdpi-v4" type="drawable"/><file name="number_9" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/number_9.png" qualifiers="hdpi-v4" type="drawable"/><file name="remind_background" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/remind_background.png" qualifiers="hdpi-v4" type="drawable"/><file name="remind_list_background_1" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/remind_list_background_1.png" qualifiers="hdpi-v4" type="drawable"/><file name="remind_list_background_2" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/remind_list_background_2.png" qualifiers="hdpi-v4" type="drawable"/><file name="remind_list_background_3" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/remind_list_background_3.png" qualifiers="hdpi-v4" type="drawable"/><file name="remind_list_background_4" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/remind_list_background_4.png" qualifiers="hdpi-v4" type="drawable"/><file name="remind_list_background_5" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/remind_list_background_5.png" qualifiers="hdpi-v4" type="drawable"/><file name="remind_list_background_6" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/remind_list_background_6.png" qualifiers="hdpi-v4" type="drawable"/><file name="remind_title_background" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/remind_title_background.png" qualifiers="hdpi-v4" type="drawable"/><file name="remind_title_f_s1_f" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/remind_title_f_s1_f.png" qualifiers="hdpi-v4" type="drawable"/><file name="remind_title_f_s1_p" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/remind_title_f_s1_p.png" qualifiers="hdpi-v4" type="drawable"/><file name="remind_title_f_s2_f" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/remind_title_f_s2_f.png" qualifiers="hdpi-v4" type="drawable"/><file name="remind_title_f_s2_p" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/remind_title_f_s2_p.png" qualifiers="hdpi-v4" type="drawable"/><file name="remind_title_p1" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/remind_title_p1.png" qualifiers="hdpi-v4" type="drawable"/><file name="remind_title_p2" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/remind_title_p2.png" qualifiers="hdpi-v4" type="drawable"/><file name="sat_icon" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/sat_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="show_tv_background" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/show_tv_background.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="sumit_f" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/sumit_f.png" qualifiers="hdpi-v4" type="drawable"/><file name="sumit_p" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/sumit_p.png" qualifiers="hdpi-v4" type="drawable"/><file name="thu_icon" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/thu_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="title_characters" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/title_characters.png" qualifiers="hdpi-v4" type="drawable"/><file name="title_colorful" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/title_colorful.png" qualifiers="hdpi-v4" type="drawable"/><file name="tue_icon" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/tue_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="wed_icon" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/wed_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="weibo_icon_48x48" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/weibo_icon_48x48.png" qualifiers="hdpi-v4" type="drawable"/><file name="widget_big_1" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/widget_big_1.png" qualifiers="hdpi-v4" type="drawable"/><file name="widget_small" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-hdpi/widget_small.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-ldpi/ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="activity_list_item" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/activity_list_item.xml" qualifiers="" type="layout"/><file name="app_about" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_about.xml" qualifiers="" type="layout"/><file name="app_list" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_list.xml" qualifiers="" type="layout"/><file name="app_login" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_login.xml" qualifiers="" type="layout"/><file name="app_remind" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_remind.xml" qualifiers="" type="layout"/><file name="app_remind_edit" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_remind_edit.xml" qualifiers="" type="layout"/><file name="app_remind_insert" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_remind_insert.xml" qualifiers="" type="layout"/><file name="app_schedule" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_schedule.xml" qualifiers="" type="layout"/><file name="app_schedule_insert" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_schedule_insert.xml" qualifiers="" type="layout"/><file name="app_schedule_show" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_schedule_show.xml" qualifiers="" type="layout"/><file name="app_schedule_show_page" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/app_schedule_show_page.xml" qualifiers="" type="layout"/><file name="asf" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/asf.xml" qualifiers="" type="layout"/><file name="cell" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/cell.xml" qualifiers="" type="layout"/><file name="copy_of_app_schedule_show" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/copy_of_app_schedule_show.xml" qualifiers="" type="layout"/><file name="list_1" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/list_1.xml" qualifiers="" type="layout"/><file name="main" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/main.xml" qualifiers="" type="layout"/><file name="main_tab_layout1" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/main_tab_layout1.xml" qualifiers="" type="layout"/><file name="tab_item_view" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/tab_item_view.xml" qualifiers="" type="layout"/><file name="test" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/test.xml" qualifiers="" type="layout"/><file name="weibo_login_view" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/weibo_login_view.xml" qualifiers="" type="layout"/><file name="weibo_main_view" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/weibo_main_view.xml" qualifiers="" type="layout"/><file name="weibo_send_view" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/weibo_send_view.xml" qualifiers="" type="layout"/><file name="weibo_sliding_view" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/weibo_sliding_view.xml" qualifiers="" type="layout"/><file name="widget_layout" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/widget_layout.xml" qualifiers="" type="layout"/><file name="widget_layout_4x1" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/widget_layout_4x1.xml" qualifiers="" type="layout"/><file name="widget_layout_small" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/layout/widget_layout_small.xml" qualifiers="" type="layout"/><file path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="net.youmi.android.AdView">
+
+
+
+
+<attr format="color" name="backgroundColor"/>
+
+
+
+<attr format="color" name="textColor"/>
+
+
+
+<attr format="integer" name="backgroundTransparent"/>
+
+</declare-styleable></file><file path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/values/color.xml" qualifiers=""><color name="red_white">#FFE7BA</color><color name="button_back">#ae9471</color><color name="green">#009999</color><color name="text">#595959</color><color name="title">#5b4120</color><color name="red">#cc3333</color><color name="blue">#333399</color><color name="yellow">#FFCC00</color><color name="purple">#CC3366</color><color name="light">#FFFC8D3B</color><color name="black">#000000</color><color name="white">#FFF8DC</color></file><file path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name_small">现在第k周迷你版</string><string name="writer">作者:</string><string name="app_name">现在第k周</string><string name="version">版本号:</string><string name="thanks">特别鸣谢: </string><string name="version_NUMBER">1.5 beta</string><string name="weibo">http://weibo.com/chenhaolin</string><string name="kelly">陈浩k</string></file><file path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/values/styles.xml" qualifiers=""><style name="btn_style_2">
+    	<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">wrap_content</item>
+    	<item name="android:background">@drawable/selector_btn_2</item>
+    	
+    	
+    </style><style name="widget_tv3">
+        <item name="android:textSize">7sp</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">@color/text</item> 
+        <item name="android:maxLines">1</item>  
+        <item name="android:gravity">center_horizontal</item> 
+         <item name="android:layout_gravity">center_horizontal</item>    
+            
+    </style><style name="widget_schedule">
+              <item name="android:layout_width">fill_parent</item>
+              <item name="android:layout_height">wrap_content</item>
+              <item name="android:text">毛邓三</item>
+              <item name="android:textSize">8sp</item>
+              <item name="android:textColor">#ffd700</item>
+              <item name="android:lines">2</item>
+              <item name="android:maxLines">2</item>
+              <item name="android:gravity">center</item> 
+    </style><style name="widget_tv1">
+        <item name="android:textSize">10sp</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">@color/title</item>       
+        <item name="android:gravity">center</item>
+         <item name="android:layout_gravity">center</item> 
+    </style><style name="widget_tv2">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/title</item>
+        <item name="android:maxLines">1</item> 
+        <item name="android:gravity">center_horizontal</item>  
+        <item name="android:layout_gravity">center_horizontal</item> 
+        
+        <item name="android:minWidth">100dp</item>
+        
+    </style><style name="Animation">
+
+    	<item name="android:activityOpenEnterAnimation">@anim/translucent_enter</item>  
+        <item name="android:activityOpenExitAnimation">@anim/translucent_exit</item>  
+        <item name="android:activityCloseEnterAnimation">@anim/translucent_enter</item>  
+        <item name="android:activityCloseExitAnimation">@anim/translucent_exit</item>  
+        
+
+
+
+
+
+
+
+
+
+    </style><style name="scheduleInsert_et3">
+        <item name="android:textSize">13dp</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:background">@drawable/show_tv_background</item>
+        
+        <item name="android:layout_margin">0.5dp</item>
+        <item name="android:gravity">center</item> 
+        <item name="android:layout_marginRight">1.5dp</item>  
+             
+    </style><style name="btn_style">
+    	<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">wrap_content</item>
+    	<item name="android:background">@drawable/selector_btn</item>
+    	
+    	
+    </style><style name="scheduleInsert_et2">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/title</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:background">@drawable/show_tv_background</item>
+       
+        <item name="android:layout_margin">0.5dp</item>  
+        <item name="android:gravity">center</item> 
+        <item name="android:layout_marginRight">1.5dp</item>  
+         
+    </style><style name="R_tittle_tv">
+
+              <item name="android:layout_width">fill_parent</item>     
+              <item name="android:layout_height">wrap_content</item>
+              <item name="android:gravity">center_horizontal</item>
+              <item name="android:layout_alignParentTop">true</item>
+              <item name="android:layout_marginTop">10dp</item>
+              <item name="android:textSize">25dp</item>
+              <item name="android:textStyle">bold</item>   
+              <item name="android:textColor">@color/white</item>
+              <item name="android:padding">2dip</item>
+              <item name="android:shadowRadius">5</item>
+              <item name="android:shadowColor">@color/black</item> 
+    </style><style name="scheduleInsert_tv1">
+        <item name="android:textSize">15dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">@color/title</item>
+        <item name="android:gravity">center</item> 
+        <item name="android:background">@drawable/show_tv_background</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_margin">0.5dp</item>
+        <item name="android:layout_marginLeft">1.5dp</item>     
+    </style><style name="R_edittext_et">
+              <item name="android:layout_width">fill_parent</item>
+              <item name="android:layout_height">wrap_content</item>
+              <item name="android:gravity">left</item>
+              <item name="android:hint">请在这里输入内容...</item>
+              <item name="android:typeface">sans</item>
+              <item name="android:textSize">25dp</item>
+              <item name="android:textColor">@color/text</item>
+              <item name="android:maxLength">300</item>
+              
+              <item name="android:maxLines">8</item>
+              <item name="android:drawableBottom">@drawable/edittext_bottom</item>
+              <item name="android:background">@drawable/edittext_background_1</item>
+              <item name="android:paddingLeft">23dp</item>
+              <item name="android:paddingRight">23dp</item>
+              <item name="android:paddingTop">30dp</item>
+    </style><style name="tab_item_background">
+    	<item name="android:textAppearance">@style/tab_item_text_style</item>   	
+        <item name="android:gravity">center_horizontal</item>  
+       
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>         
+        <item name="android:drawablePadding">3.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style><style name="R_datebox_tv">
+              <item name="android:layout_width">wrap_content</item> 
+              <item name="android:layout_height">wrap_content</item> 
+              <item name="android:layout_centerHorizontal">true</item>
+              <item name="android:textSize">25sp</item> 
+              <item name="android:textColor">@color/title</item> 
+              <item name="android:layout_marginLeft">10dp</item> 
+    </style><style name="remind_insert_edit_text_style">
+        <item name="android:textSize">28.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#A0522D</item>
+        <item name="android:ellipsize">marquee</item>       
+        <item name="android:singleLine">true</item>
+    </style><style name="widget_add">
+              <item name="android:layout_width">fill_parent</item> 
+              <item name="android:layout_height">wrap_content</item> 
+              <item name="android:textSize">10sp</item> 
+              <item name="android:textColor">#f0e68c</item> 
+              <item name="android:text">教二224</item>
+              <item name="android:lines">2</item>             
+              <item name="android:maxLines">2</item>
+              <item name="android:gravity">center</item> 
+
+
+
+    </style><style name="tab_item_text_style">
+        <item name="android:textSize">28.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/title</item>
+        <item name="android:ellipsize">marquee</item>       
+        <item name="android:singleLine">true</item>
+    </style><style name="show_tv1">
+        <item name="android:textSize">20dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">@color/title</item>
+        <item name="android:gravity">center</item> 
+        <item name="android:background">@drawable/show_tv_background</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_margin">0.5dp</item>
+        <item name="android:layout_marginLeft">1.5dp</item>     
+    </style><style name="show_tv2">
+        <item name="android:textSize">25dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/title</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@drawable/show_tv_background</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_margin">0.5dp</item>  
+        <item name="android:gravity">center</item> 
+        <item name="android:layout_marginRight">1.5dp</item>  
+         
+    </style><style name="show_tv3">
+        <item name="android:textSize">18dp</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:background">@drawable/show_tv_background</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_margin">0.5dp</item>
+        <item name="android:gravity">center</item> 
+        <item name="android:layout_marginRight">1.5dp</item>  
+             
+    </style><style name="AnimationTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/Animation</item>
+    </style></file><file name="preference" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/xml/preference.xml" qualifiers="" type="xml"/><file name="widget" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/xml/widget.xml" qualifiers="" type="xml"/><file name="widget_small" path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/xml/widget_small.xml" qualifiers="" type="xml"/></source><source path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/generated/res/rs/debug"/><source path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="net.youmi.android.AdView"><attr format="color" name="backgroundColor"/><attr format="color" name="textColor"/><attr format="integer" name="backgroundTransparent"/></declare-styleable></configuration></mergedItems></merger>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">现在第k周</string>
+	<string name="app_name_small">现在第k周迷你版</string>
+	<string name="version">版本号:</string>
+	<string name="version_NUMBER">1.5 beta</string>
+	<string name="kelly">陈浩k</string>
+	<string name="writer">作者:</string>
+	<string name="weibo">http://weibo.com/chenhaolin</string>
+	<string name="thanks">特别鸣谢: </string>
+</resources>

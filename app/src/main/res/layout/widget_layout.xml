@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:minHeight="146px"
+    android:minWidth="146px"
+    android:background="@drawable/widget_big_1"
+    android:id="@+id/Base"
+    
+    >
+    
+    <TextView
+              android:id="@+id/widget_tv0"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"           
+              android:textSize="23dp"
+              android:textColor="@color/title"
+              android:paddingLeft="10dp"
+              android:paddingTop="25dp"
+              android:layout_margin="0.5dp"
+              android:typeface="sans"
+              android:textStyle="italic"  
+              
+              >
+          </TextView>
+     <LinearLayout
+              android:id="@+id/l1"
+              android:layout_marginLeft="20dp"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              >
+     
+          <TextView
+              android:id="@+id/widget_tv1_1"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+             
+              android:text="1,2节"
+             
+              style="@style/widget_tv1">
+          </TextView>
+          <LinearLayout
+              android:layout_weight="7"
+              android:layout_marginLeft="3dp"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              >
+              <TextView
+                  android:id="@+id/widget_tv1_2"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  
+                  style="@style/widget_tv2">
+              </TextView>
+              <TextView
+                  android:id="@+id/widget_tv1_3"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  
+                  style="@style/widget_tv3">
+              </TextView>              
+          </LinearLayout>
+      </LinearLayout>
+      
+      
+      <LinearLayout
+              android:id="@+id/l2"
+              android:layout_marginLeft="20dp"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              >
+          <TextView
+              android:id="@+id/widget_tv2_1"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:text="3,4节"
+              
+              style="@style/widget_tv1">
+          </TextView>
+          <LinearLayout
+          android:layout_marginLeft="3dp"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              >
+              <TextView
+                  android:id="@+id/widget_tv2_2"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+              
+                  style="@style/widget_tv2">
+              </TextView>
+              <TextView
+                  android:id="@+id/widget_tv2_3"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                
+                  style="@style/widget_tv3">
+              </TextView>              
+          </LinearLayout>
+      </LinearLayout>
+      <LinearLayout
+              android:id="@+id/l3"
+              android:layout_marginLeft="20dp"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              >
+          <TextView
+              android:id="@+id/widget_tv3_1"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:layout_gravity="center"
+              android:text="5,6节"
+              style="@style/widget_tv1">
+          </TextView>
+          <LinearLayout
+          android:layout_marginLeft="3dp"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              >
+              <TextView
+                  android:id="@+id/widget_tv3_2"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                 
+                  style="@style/widget_tv2">
+              </TextView>
+              <TextView
+                  android:id="@+id/widget_tv3_3"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  
+                  style="@style/widget_tv3">
+              </TextView>              
+          </LinearLayout>
+          </LinearLayout>
+          <LinearLayout
+              android:id="@+id/l4"
+              android:layout_marginLeft="20dp"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              >
+      
+          <TextView
+              android:id="@+id/widget_tv4_1"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:text="7,8节"
+            
+              style="@style/widget_tv1">
+          </TextView>
+          <LinearLayout
+          android:layout_marginLeft="3dp"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              >
+              <TextView
+                  android:id="@+id/widget_tv4_2"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                 
+                  style="@style/widget_tv2">
+              </TextView>
+              <TextView
+                  android:id="@+id/widget_tv4_3"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                 
+                  style="@style/widget_tv3">
+              </TextView>              
+          </LinearLayout>
+          </LinearLayout>
+          <LinearLayout
+              android:id="@+id/l5"
+              android:layout_marginLeft="20dp"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              >
+      
+          <TextView
+              android:id="@+id/widget_tv5_1"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:text="选修 "
+            
+              style="@style/widget_tv1">
+          </TextView>
+          <LinearLayout
+          android:layout_marginLeft="3dp"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              >
+              <TextView
+                  android:id="@+id/widget_tv5_2"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                 
+                  style="@style/widget_tv2">
+              </TextView>
+              <TextView
+                  android:id="@+id/widget_tv5_3"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                 
+                  style="@style/widget_tv3">
+              </TextView>              
+          </LinearLayout>
+          </LinearLayout>
+     
+         
+</LinearLayout>

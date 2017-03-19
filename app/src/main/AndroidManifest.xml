@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kelly.activity"
+    android:versionCode="1"
+    android:versionName="1.5 beta" >
+
+    <uses-sdk android:minSdkVersion="8" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application android:icon="@drawable/icon" android:label="@string/app_name"    >
+        <receiver android:label="@string/app_name" android:name=".TodayDate">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"></action>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/widget"></meta-data>
+        </receiver>
+        <receiver android:label="@string/app_name_small" android:name=".TodayDateSmall">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"></action>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_small"></meta-data>
+        </receiver>
+        <activity android:label="@string/app_name" android:name=".Main"
+                  android:screenOrientation="portrait"
+                  android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"></action>
+                <category android:name="android.intent.category.LAUNCHER"></category>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name=".TodayDateRemind" android:screenOrientation="portrait"></activity>
+        <activity android:label="@string/app_name" android:name=".RemindInsert" android:screenOrientation="portrait"
+                  android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:label="@string/app_name" android:name=".RemindEdit" android:screenOrientation="portrait"
+                  android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:label="@string/app_name" android:name=".TodayDateSchedule" android:screenOrientation="portrait"></activity>
+        <activity android:label="@string/app_name" android:name=".ScheduleInsert" android:screenOrientation="portrait"
+                  android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:label="@string/app_name" android:name=".ScheduleShow" android:screenOrientation="portrait"
+                  android:theme="@android:style/Theme.NoTitleBar"></activity>
+        
+        <activity android:label="@string/app_name" android:name="TodayDateSetting" android:screenOrientation="portrait"></activity>
+        <activity android:label="@string/app_name" android:name=".TodayDateAbout" android:screenOrientation="portrait"></activity>
+        <activity android:label="@string/app_name" android:name=".TodayDateLogin"  android:screenOrientation="portrait"
+                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+           
+        </activity>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation" android:name="net.youmi.android.AdActivity"></activity>
+                  
+        
+         
+    </application>
+
+</manifest>

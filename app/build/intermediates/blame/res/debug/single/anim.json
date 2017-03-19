@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/anim/fade.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/fade.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/anim/scale_rotate.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/scale_rotate.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/anim/zoomin.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/zoomin.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/anim/translucent_enter.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/translucent_enter.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/anim/slide_down_out.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/slide_down_out.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/anim/slide_up_in.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/slide_up_in.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/anim/my_alpha_action.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/my_alpha_action.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/anim/zoomout.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/zoomout.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/anim/txtview_trans_animation.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/txtview_trans_animation.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/anim/layout_grid_fade.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/layout_grid_fade.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/anim/translucent_exit.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/translucent_exit.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/anim/zoom_enter.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/zoom_enter.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/anim/zoom_exit.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/anim/zoom_exit.xml"
+    }
+]

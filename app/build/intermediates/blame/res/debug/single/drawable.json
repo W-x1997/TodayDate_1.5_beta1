@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/drawable/selector_btn_icon.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable/selector_btn_icon.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/drawable/selector_btn.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable/selector_btn.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/drawable/selector_tab_background_1.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable/selector_tab_background_1.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/drawable/selector_btn_back.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable/selector_btn_back.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/drawable/selector_tab_background_0.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable/selector_tab_background_0.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/drawable/selector_btn_2.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable/selector_btn_2.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/drawable/selector_btn_delect.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable/selector_btn_delect.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/drawable/selector_btn_sumit.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/drawable/selector_btn_sumit.xml"
+    }
+]

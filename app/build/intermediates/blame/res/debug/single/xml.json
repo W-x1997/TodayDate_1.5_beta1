@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/xml/widget_small.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/xml/widget_small.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/xml/preference.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/xml/preference.xml"
+    },
+    {
+        "merged": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/build/intermediates/res/merged/debug/xml/widget.xml",
+        "source": "/Users/wx/Desktop/TodayDate_1.5_beta1/app/src/main/res/xml/widget.xml"
+    }
+]
